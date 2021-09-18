@@ -1,0 +1,47 @@
+.main {
+    text-align: center;
+    margin-top: 0;
+    /* background: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+    background-color: white;
+ }
+ 
+ .main h1 {
+    font-size: 55px;
+    margin: 10vh auto;
+ }
+
+ .main button
+ {
+   margin-bottom: 2vh;
+ }
+
+ .bookTable {
+    border: 2px solid white;
+    margin: 0 auto 5vh auto;
+    background: linear-gradient(to right, #3c3b3f, #605c3c);
+    color: white;
+   
+ }
+ 
+ .bookTable thead:first-child {
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+ }
+ .bookTable tbody {
+    border: 1px solid white;
+ }
+ .bookTable th {
+    border: 1px solid white;
+ }
+ .bookTable tbody td{
+    border: 1px solid white;
+ }
+ 
+ .bookTable th, td {
+    padding-left: 4vw;
+    padding-right: 4vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+ }
+ 

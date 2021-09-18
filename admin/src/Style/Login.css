@@ -1,0 +1,36 @@
+@media all and (min-width: 480px) {
+  .Login {
+    align-self: center;
+    padding: 12vh 0;
+    background: linear-gradient(to right, #3c3b3f, #605c3c);;
+  }
+
+  .p1{
+    text-align: center;
+    padding-left: 2vw;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0;
+    color: white;
+  }
+
+  .p2{
+    text-align: center;
+    margin-bottom: 10px;
+    padding-left: 2vw;
+    font-size: 50px;
+    color: white;
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 320px;
+    padding: 50px;
+    background-color:linear-gradient(to right, #3c3b3f, #605c3c);;;
+    margin-top: 3vw;
+  }
+
+  .Login label{
+    color: white;
+  }
+}
